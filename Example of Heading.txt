@@ -1,0 +1,28 @@
+ <!DOCKTYPE html>
+<html>
+
+<h1> Type Design</h1>
+
+<h2> Serif Typefaces</h2>
+<p>Serif typeface have small slabs at the end of letter strokes.
+In general, serif fonts can make large amounts of text easier to
+read.</p>
+
+<hr>
+
+<h3>Baskerville</h3>
+
+<h4>Description</h4>
+<p>Description of the Baskerville typeface.</p>
+
+<h4> The history of the Baskerville typeface.</p>
+
+<hr>
+
+<h3>Georgia</h3>
+<p>Description and history of the Georgia typeface.</p>
+
+<h2> Sans-serif Typeface</h2>
+<p> Sans-serif typeface do not have slabs at the end of strokes.</p>
+
+</html>
