@@ -1,0 +1,13 @@
+<html>
+<body>
+<dl>
+<dt> Statistic and probability </dt>
+<dd> prof. devika </dd>
+
+<dt> Web designing</dt>
+<dd> prof. Ramya </dd>
+
+<dt> CNT <dt>
+<dd> prof. Ashwini<dd>
+</body>
+</html>
