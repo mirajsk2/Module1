@@ -1,0 +1,21 @@
+<DOCTYPE html>
+<html>
+<body>
+<ol start="2">
+     <li> maths</li>
+     <li> English</li>
+     <li>science</li>
+
+
+<ol type="i">
+<li> web desigining</li>
+<li> basic electronic</li>
+<li> soft skill</li>
+
+<ol type="a">
+<li> miraj</li>
+<li> preet</li>
+<li> aman</li>
+</ol>
+</body>
+</html>
