@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<table>
+<caption><b>Albam</b></caption>
+<th> <b>Albam</b></th>
+<th> <b>Year</b></th>
+<tr>
+<td>Rubber Soul</td>
+<td>1965</td>
+</tr>
+<tr>
+<td>Revolver</td>
+<td>1966</td>
+</tr>
+<tr>
+<td>Stg.Pepper's</td>
+<td>1967</td>
+</tr>
+<tr>
+<td>The white Albam</td>
+<td>1968</td>
+</tr>
+<tr>
+<td>Abbey Road</td>
+<td>1969</td>
+</tr>
+
+<wbr>
+<table>
+<caption><b>Nutritional Value</b></caption>
+<th><b>Menu item</b></th>
+<th><b>Calories</b></th>
+<th><b>Fat(g)<b></th>
+<tr>
+<td>Chicken noodle soup</td>
+<td>120</td>
+<td>2</td>
+</tr>
+<tr>
+<td>Caesar salad</td>
+<td>400</td>
+<td>26</td>
+</tr>
+</table>
+
+</html>
+
