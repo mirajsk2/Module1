@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+<ol>
+<li><em> This is list</em><br></li>
+<li><strong> This is list</strong><br></li>
+<li><b> This is list</b><br></li>
+<li><i> This is list</i><br></li>
+<li><u> This is list</u><br></li>
+<li><s> This is list</s><br></li>
+<li><small> This is list</small><br></li>
+<li><def> This is list</def><br></li>
+<li><q> This is list</q><br></li>
+<li><abbr title="Web design">WD</abbr><br></li>
+<li><sub> water = H<sub>2</sub>O<br></li>
+<li><sup> E = mc<sup>2</sup><br></li>
+<li><mark> This is list</mark><br></li>
+<li><ins> This is list</ins><br></li>
+<li><del> This is list</del><br></li>
+<li><br> This is list</br><br></li>
+<li><wbr> This is list</wbr><br></li>
+</ol?
+
+</body>
+</html>
