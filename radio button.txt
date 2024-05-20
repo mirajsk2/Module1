@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Radio button</title>
+</head>
+<body>
+
+<form>
+<li> <input type= "radio"
+    name="Age"> 0 to 20 years</li>
+<li> <input type="radio" name="age"> 21 to 40 years</li>
+
+<li> <input type="radio" name="age"> 41 to 60 years</li>
+
+<li> <input type="radio" name="age"> 61 to 80 years</li>
+
+</body>
+</form>
+</html>
